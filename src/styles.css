@@ -1,0 +1,20 @@
+/* styles.css */
+
+/* Unvisited link */
+a {
+    color: black; /* Default color */
+    text-decoration: none;
+  }
+  
+  /* Visited link */
+  a:visited {
+    color: black; /* Default color */
+    text-decoration: none;
+  }
+  
+  /* Link on hover */
+  a:hover {
+    color: #5BA5E1; /* Change to your preferred hover color */
+    text-decoration: none; /* Add underline when hovering */
+  }
+  
